@@ -13,7 +13,7 @@ namespace NotelyApp.Models
         public Guid Id { get; set; }
         public string Subject { get; set; }
         public string Detail { get; set; }
-        public DateTime CreatedDate { get; set; 
+        public DateTime CreatedDate { get; set; }
 
         public DateTime LastModifiedDate { get; set; }
 
